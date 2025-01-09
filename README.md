@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanArtox
-- 🌱 I’m currently learning Django
-- 📫 How to reach me @Dan_4rt0x
+- 🌱 I’m currently learning Django 5 + JS
+- 📫 How to reach me - TG: @WebArtox
 
 <!---
 DanArtox/DanArtox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
